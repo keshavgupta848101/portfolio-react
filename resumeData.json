@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Keshav Gupta",
+    "occupation": "Front-end dev",
+    "description": "I write < Code /> ",
+    "image": "profilepic.jpg",
+    "bio": "Hello! My name is Keshav Gupta and I am a passionate Frontend Web Developer using web technologies to build an amazing product and focusing on solving the problem for different niches and different industries using the power of technology.",
+    "contactmessage": "Get in touch with me!",
+    "email": "iamkeshavgupta27@gmail.com",
+    "phone": "8340521758",
+    "address": {
+      "street": "Paper mill road",
+      "city": "Samastipur",
+      "state": "Bihar",
+      "zip": "848101"
+    },
+    "website": "https://keshavgupta848101.github.io/PersonalPortfolio/",
+    "resumedownload": "KeshavGupta",
+    "social": [
+    
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100012917795216",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/keshav27/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/keshav848101/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/keshavgupta848101",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Lovely Professionl University",
+        "degree": "Bachelor's Computer Application",
+        "graduated": "July 2022"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "40%"
+      },
+      {
+        "name": "Node",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDb",
+        "level": "55%"
+      },
+      {
+        "name": "Web Development",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Javascript Dice Roll",
+        "category": "",
+        "image": "rollDice.png",
+        "url": "https://keshavgupta848101.github.io/Roll-Roll-Dice-Roll-/"
+      },
+      {
+        "title": "Weather app",
+        "category": "",
+        "image": "weatherapp.png",
+        "url": "https://keshavgupta848101.github.io/WeatherApp/"
+      },
+      {
+        "title": "Facebook faq page",
+        "category": "",
+        "image": "fb.png",
+        "url": "https://facebook-faq-page-reactjs.netlify.app/"
+      },
+        {
+        "title": "Review page",
+        "category": "",
+        "image": "rev.png",
+        "url": "https://reviews-slides.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Binod"
+      },
+      {
+        "text": "Learning with Keshav has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Badka mausa Curtis"
+      }
+    ]
+  }
+}
